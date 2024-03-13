@@ -2,6 +2,8 @@
 Machine learning surrogates for approximating tsunami wave height time series nearshore and max inundation depth onshore for Japan Tohoku region
 
 # Contents
+![Alt text](/paper/_plots/model_region.png)
+
 - geoclaw(2D Nonlinear Shallow Water Equations tsunami runs)
   - _input
   - _output
