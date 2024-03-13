@@ -1,0 +1,18 @@
+gp02
+nepochs: 3000 zdim2use: 25 vae2use: 100 kfold2use: 0
+processing for input time window and epoche  1500
+
+saving fig to _plots/vae_predvobs_g6042_k0_e1500.pngnepochs: 3000 zdim2use: 25 vae2use: 100 kfold2use: 1
+processing for input time window and epoche  1500
+
+saving fig to _plots/vae_predvobs_g6042_k1_e1500.pngnepochs: 3000 zdim2use: 25 vae2use: 100 kfold2use: 2
+processing for input time window and epoche  1500
+
+saving fig to _plots/vae_predvobs_g6042_k2_e1500.pngnepochs: 3000 zdim2use: 25 vae2use: 100 kfold2use: 3
+processing for input time window and epoche  1500
+
+saving fig to _plots/vae_predvobs_g6042_k3_e1500.pngnepochs: 3000 zdim2use: 25 vae2use: 100 kfold2use: 4
+processing for input time window and epoche  1500
+
+saving fig to _plots/vae_predvobs_g6042_k4_e1500.png...
+Time taken: 36

@@ -1,0 +1,12 @@
+gp02
+epochs2use: 2000 kfold2use: 0
+epoch: 2000
+epochs2use: 2000 kfold2use: 1
+epoch: 2000
+epochs2use: 2000 kfold2use: 2
+epoch: 2000
+epochs2use: 2000 kfold2use: 3
+epoch: 2000
+epochs2use: 2000 kfold2use: 4
+epoch: 2000
+Time taken: 216

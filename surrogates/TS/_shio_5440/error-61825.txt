@@ -1,0 +1,55 @@
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae_test_historic.py", line 29, in <module>
+    AE.load_model(model_name='vae_riku', device='cuda',kfold=kfold2use) #loads model and data
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 427, in load_model
+    self.load_data(batch_size=self.batch_size,
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: CUDA driver initialization failed, you might not have a CUDA gpu.
+srun: error: gp02: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae_test_historic.py", line 29, in <module>
+    AE.load_model(model_name='vae_riku', device='cuda',kfold=kfold2use) #loads model and data
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 427, in load_model
+    self.load_data(batch_size=self.batch_size,
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: CUDA driver initialization failed, you might not have a CUDA gpu.
+srun: error: gp02: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae_test_historic.py", line 29, in <module>
+    AE.load_model(model_name='vae_riku', device='cuda',kfold=kfold2use) #loads model and data
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 427, in load_model
+    self.load_data(batch_size=self.batch_size,
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: CUDA driver initialization failed, you might not have a CUDA gpu.
+srun: error: gp02: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae_test_historic.py", line 29, in <module>
+    AE.load_model(model_name='vae_riku', device='cuda',kfold=kfold2use) #loads model and data
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 427, in load_model
+    self.load_data(batch_size=self.batch_size,
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: CUDA driver initialization failed, you might not have a CUDA gpu.
+srun: error: gp02: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae_test_historic.py", line 29, in <module>
+    AE.load_model(model_name='vae_riku', device='cuda',kfold=kfold2use) #loads model and data
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 427, in load_model
+    self.load_data(batch_size=self.batch_size,
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/_shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: CUDA driver initialization failed, you might not have a CUDA gpu.
+srun: error: gp02: task 0: Exited with exit code 1

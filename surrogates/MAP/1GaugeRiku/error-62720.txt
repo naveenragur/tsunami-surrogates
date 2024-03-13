@@ -1,0 +1,50 @@
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(
+/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/rasterio/mask.py:189: NodataShadowWarning: The dataset's nodata attribute is shadowing the alpha band. All masks will be determined by the nodata attribute
+  out_image = dataset.read(

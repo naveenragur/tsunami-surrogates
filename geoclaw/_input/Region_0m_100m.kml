@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document><name>Region_0m_100m.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF00FFFF</color><width>2</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>Region_0m_100m</name>
+<description>minlevel = 4, maxlevel = 4
+  t1 = 0., t2 = 1000000000.
+  Bounding box: 
+  x1_bb = 140.75, x2_bb = 142.1
+  y1_bb = 36.85, y2_bb = 39.36
+
+Level 4 resolution:  
+dy = 0 deg, 0 min, 4.86322 sec 
+= 149.949 meters
+</description>
+<styleUrl>#Path</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+
+140.75,36.85,0.
+140.9,37.15,0.
+140.9,37.725,0.
+140.83,38.06,0.
+140.88,38.264,0.
+141.26,38.625,0.
+141.4,38.78,0.
+141.56,38.99,0.
+141.78,39.36,0.
+142.1,39.36,0.
+141.94,38.99,0.
+141.76,38.78,0.
+141.68,38.625,0.
+141.69,38.264,0.
+141.5,38.06,0.
+141.44,37.725,0.
+141.23,37.15,0.
+141.12,36.85,0.
+140.75,36.85,0.
+140.75,36.85,0.
+
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document>
+</kml>

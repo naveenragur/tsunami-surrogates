@@ -1,0 +1,1 @@
+/var/spool/slurmd/job61823/slurm_script: line 20: cd: /mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440: No such file or directory

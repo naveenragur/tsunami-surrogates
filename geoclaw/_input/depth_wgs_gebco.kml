@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document><name>depth_wgs_gebco.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF00FF00</color><width>3</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>depth_wgs_gebco</name>
+<description>  x1 = 130.002025, x2 = 159.996325
+  y1 = 25.001375, y2 = 49.997975</description>
+<styleUrl>#Path</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+
+130.002025000,25.001375000,0.000000000
+159.996325000,25.001375000,0.000000000
+159.996325000,49.997975000,0.000000000
+130.002025000,49.997975000,0.000000000
+130.002025000,25.001375000,0.000000000
+
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document>
+</kml>

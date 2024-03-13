@@ -1,0 +1,13 @@
+#empty fill as needed
+__pycache__
+*.pyc
+*configs/
+
+#from TS/MAP folder
+*.npy
+*.pkl
+*.png
+*.csv
+*.tif
+
+

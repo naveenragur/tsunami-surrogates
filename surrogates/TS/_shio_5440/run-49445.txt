@@ -1,0 +1,7 @@
+gp01
+nepochs: 4000 zdim2use: 100 vae2use: 100 kfold2use: 0
+nepochs: 4000 zdim2use: 100 vae2use: 100 kfold2use: 1
+nepochs: 4000 zdim2use: 100 vae2use: 100 kfold2use: 2
+nepochs: 4000 zdim2use: 100 vae2use: 100 kfold2use: 3
+nepochs: 4000 zdim2use: 100 vae2use: 100 kfold2use: 4
+Time taken: 95

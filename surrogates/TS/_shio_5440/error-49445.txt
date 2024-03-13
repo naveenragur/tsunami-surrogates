@@ -1,0 +1,45 @@
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae_train.py", line 60, in <module>
+    VAE.load_data(batch_size=1000, data_fname='_data/riku.npy',kfold=kfold2use)
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+srun: error: gp01: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae_train.py", line 60, in <module>
+    VAE.load_data(batch_size=1000, data_fname='_data/riku.npy',kfold=kfold2use)
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+srun: error: gp01: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae_train.py", line 60, in <module>
+    VAE.load_data(batch_size=1000, data_fname='_data/riku.npy',kfold=kfold2use)
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+srun: error: gp01: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae_train.py", line 60, in <module>
+    VAE.load_data(batch_size=1000, data_fname='_data/riku.npy',kfold=kfold2use)
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+srun: error: gp01: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae_train.py", line 60, in <module>
+    VAE.load_data(batch_size=1000, data_fname='_data/riku.npy',kfold=kfold2use)
+  File "/mnt/beegfs/nragu/tsunami/japan/Paper/TS/shio_5440/vae.py", line 210, in load_data
+    data0 = torch.tensor(data0, dtype=torch.float32).to(device)
+  File "/mnt/beegfs/nragu/tsunami/env/lib/python3.10/site-packages/torch/cuda/__init__.py", line 247, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+srun: error: gp01: task 0: Exited with exit code 1

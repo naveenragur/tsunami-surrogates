@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document><name>Domain.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF0000FF</color><width>2</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>Computational Domain</name>
+<description>  x1 = 139., x2 = 156.
+  y1 = 29., y2 = 45.
+Level 1 resolution:  dy = 0 deg, 1 min, 27.538 sec = 2699.09 meters
+Level 2 resolution:  dy = 0 deg, 0 min, 43.769 sec = 1349.54 meters  (refined by 2)
+Level 3 resolution:  dy = 0 deg, 0 min, 14.5897 sec = 449.848 meters  (refined by 3)
+Level 4 resolution:  dy = 0 deg, 0 min, 4.86322 sec = 149.949 meters  (refined by 3)
+Level 5 resolution:  dy = 0 deg, 0 min, 1.62107 sec = 49.9831 meters  (refined by 3)
+</description>
+<styleUrl>#Path</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+
+139.000000000,29.000000000,0.000000000
+156.000000000,29.000000000,0.000000000
+156.000000000,45.000000000,0.000000000
+139.000000000,45.000000000,0.000000000
+139.000000000,29.000000000,0.000000000
+
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document>
+</kml>

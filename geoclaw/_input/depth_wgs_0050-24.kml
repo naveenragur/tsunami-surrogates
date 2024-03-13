@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document><name>depth_wgs_0050-24.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF00FF00</color><width>3</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>depth_wgs_0050-24</name>
+<description>  x1 = 141.695225, x2 = 142.064675
+  y1 = 38.965225, y2 = 39.324775</description>
+<styleUrl>#Path</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+
+141.695225000,38.965225000,0.000000000
+142.064675000,38.965225000,0.000000000
+142.064675000,39.324775000,0.000000000
+141.695225000,39.324775000,0.000000000
+141.695225000,38.965225000,0.000000000
+
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document>
+</kml>

@@ -1,0 +1,57 @@
+gp02
+epochs2use: 3000 kfold2use: 0
+epoch: 3000
+gauges: [5010, 5015, 5020, 5675]
+FUJI2011_42
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+nepochs: 3000 zdim2use: 150 vae2use: 100 kfold2use: 0
+processing for input time window and epoche  3000
+
+saving fig to _plots/vae_predvobs_g5675_k0_e3000.pngepochs2use: 3000 kfold2use: 1
+epoch: 3000
+gauges: [5010, 5015, 5020, 5675]
+FUJI2011_42
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+nepochs: 3000 zdim2use: 150 vae2use: 100 kfold2use: 1
+processing for input time window and epoche  3000
+
+saving fig to _plots/vae_predvobs_g5675_k1_e3000.pngepochs2use: 3000 kfold2use: 2
+epoch: 3000
+gauges: [5010, 5015, 5020, 5675]
+FUJI2011_42
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+nepochs: 3000 zdim2use: 150 vae2use: 100 kfold2use: 2
+processing for input time window and epoche  3000
+
+saving fig to _plots/vae_predvobs_g5675_k2_e3000.pngepochs2use: 3000 kfold2use: 3
+epoch: 3000
+gauges: [5010, 5015, 5020, 5675]
+FUJI2011_42
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+nepochs: 3000 zdim2use: 150 vae2use: 100 kfold2use: 3
+processing for input time window and epoche  3000
+
+saving fig to _plots/vae_predvobs_g5675_k3_e3000.pngepochs2use: 3000 kfold2use: 4
+epoch: 3000
+gauges: [5010, 5015, 5020, 5675]
+FUJI2011_42
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+nepochs: 3000 zdim2use: 150 vae2use: 100 kfold2use: 4
+processing for input time window and epoche  3000
+
+saving fig to _plots/vae_predvobs_g5675_k4_e3000.pngTime taken: 392

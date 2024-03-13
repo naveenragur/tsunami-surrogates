@@ -1,0 +1,67 @@
+gp02
+epochs2use: 2000 kfold2use: 0
+epoch: 2000
+gauges: [5010, 5015, 5020, 5440]
+FUJI2011_42
+NANKAI2022
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+SatakeMiniLowerSoft
+SatakeMiniUpper
+SatakeMiniUpperSoft
+SatakeMiniLower
+epochs2use: 2000 kfold2use: 1
+epoch: 2000
+gauges: [5010, 5015, 5020, 5440]
+FUJI2011_42
+NANKAI2022
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+SatakeMiniLowerSoft
+SatakeMiniUpper
+SatakeMiniUpperSoft
+SatakeMiniLower
+epochs2use: 2000 kfold2use: 2
+epoch: 2000
+gauges: [5010, 5015, 5020, 5440]
+FUJI2011_42
+NANKAI2022
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+SatakeMiniLowerSoft
+SatakeMiniUpper
+SatakeMiniUpperSoft
+SatakeMiniLower
+epochs2use: 2000 kfold2use: 3
+epoch: 2000
+gauges: [5010, 5015, 5020, 5440]
+FUJI2011_42
+NANKAI2022
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+SatakeMiniLowerSoft
+SatakeMiniUpper
+SatakeMiniUpperSoft
+SatakeMiniLower
+epochs2use: 2000 kfold2use: 4
+epoch: 2000
+gauges: [5010, 5015, 5020, 5440]
+FUJI2011_42
+NANKAI2022
+SANRIKU1896
+SANRIKU1933
+TOKACHI1968
+YAMAZAKI2018_TPMOD
+SatakeMiniLowerSoft
+SatakeMiniUpper
+SatakeMiniUpperSoft
+SatakeMiniLower
+Time taken: 510

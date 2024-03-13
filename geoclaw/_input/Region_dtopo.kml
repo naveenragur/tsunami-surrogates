@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document><name>Region_dtopo.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF00FFFF</color><width>2</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>Region_dtopo</name>
+<description>minlevel = 2, maxlevel = 2
+  t1 = 0., t2 = 300.
+  Bounding box: 
+  x1_bb = 139., x2_bb = 145.
+  y1_bb = 34., y2_bb = 42.
+
+Level 2 resolution:  
+dy = 0 deg, 0 min, 43.769 sec 
+= 1349.54 meters
+</description>
+<styleUrl>#Path</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+
+139.,34.,0.
+139.,42.,0.
+145.,42.,0.
+145.,34.,0.
+139.,34.,0.
+139.,34.,0.
+
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document>
+</kml>
