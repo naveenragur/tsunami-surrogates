@@ -36,7 +36,7 @@ Machine learning surrogates for approximating tsunami wave height time series ne
 # Usage
 Following are the yml files with info on the python packages and requirements to run:
 - GeoClaw 2DNLSE simulation - /geoclaw/geoclaw.yml
-- Machine learning - /surrogates/HPC.yml
+- Machine learning - /surrogates/pytorch.yml
 - Pygmt plotting - /paper/pygmt.yml
 
 README.md in each directory contains more details
