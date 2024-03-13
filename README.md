@@ -16,12 +16,12 @@ Machine learning surrogates for approximating tsunami wave height time series ne
   - dtopo_slab (for type A)
 <img src="/paper/_plots/displacement_fault_fuji.png" alt="Displacement Ex" height="400">
 
-- **surrogates**
+- **surrogates**(machine learning models )
   - MAP (onshore surrogate for maximum inundation depth prediction)
   - TS (nearshore surrogate for time series prediction)
 <img src="/paper/_plots/VEDArch.png" alt="VED" height="400">
 
-- **paper** (analysis, plots, and results)
+- **paper** (ipynb notebooks for analysis, plots, and results)
   - _plots
   - _results
   - _stats
