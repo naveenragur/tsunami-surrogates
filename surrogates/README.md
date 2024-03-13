@@ -11,9 +11,9 @@ The repository includes various scripts and tools for:
 Introductions to this and requisits.
 - `README.md`: This README file.
 
-input and output folders
-- `MAP`: Contains source parameter info for events - historic scenarios, slab(typeA) and sift(typeB).
-- `TS`: Contains dtopo files(.tt3), plots for each historic event(dtopopng) and event info file
+input and output folders for the two surrogates
+- `MAP`: Contains the folders for the onshore surrogate
+- `TS`: Contains the folders for the nearhsore surrogate
 
 ## Usage
 Certain heavy input ,output and result plot files (.npy,.csv and .png) are not included in the repository. These files are available on request and will be available at a download link soon.
