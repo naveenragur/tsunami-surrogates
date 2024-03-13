@@ -2,7 +2,7 @@
 Machine learning surrogates for approximating tsunami wave height time series nearshore and max inundation depth onshore for Japan Tohoku region
 
 # Contents
-![Alt text](/paper/_plots/model_region.png)
+![Alt text](/paper/_plots/model_region.png =500x500)
 
 - geoclaw(2D Nonlinear Shallow Water Equations tsunami runs)
   - _input
@@ -15,25 +15,14 @@ Machine learning surrogates for approximating tsunami wave height time series ne
   - _stats
 
 - rupture(earthquake rupture and displacement modelling)
-  - _inputs(input source parameters)
-    - historic(for historic)
-  - dtopo_his(dtopo file and plotting)
-    - dtopopng
+  - _inputs(input source parameters for DOE and historic events)
+  - dtopo_his(dtopo files for historic events and plotting)
   - dtopo_sift(for type B)
-    - dtopofil
-    - dtopopng
   - dtopo_slab(for type A)
-    - dtopopng
 
 - surrogates
   - MAP(onshore surrogate for max inundation depth prediction)
-    - 1GaugeRiku
-    - 3GaugeIshi
-    - 3GaugeShio
   - TS(nearshore surrogate for time series prediction)
-    - _ishi_5675
-    - _riku_6042
-    - _shio_5440
 
 # Usage
 Following are the yml files with info on the python packages and requirements to run:
