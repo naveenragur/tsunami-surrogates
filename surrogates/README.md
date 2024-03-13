@@ -16,7 +16,7 @@ input and output folders
 - `TS`: Contains dtopo files(.tt3), plots for each historic event(dtopopng) and event info file
 
 ## Usage
-Certain heavy input ,output and result plot files (.npy,.csv and .png) are not included in the repository. These files are available on request or at the following link:
+Certain heavy input ,output and result plot files (.npy,.csv and .png) are not included in the repository. These files are available on request and will be available at a download link soon.
 
 ### Setting up the environment
 The repository uses a conda environment to manage the python packages.
