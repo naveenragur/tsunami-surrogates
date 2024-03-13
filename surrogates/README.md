@@ -1,11 +1,10 @@
 # ML surrogates(variational encoder decoder) 
-This repository contains scripts and resources for building and testing the variational encoder decoder model 
+This directory contains scripts and resources for building and testing the variational encoder decoder model 
 
 ## Overview
-The repository includes various scripts and tools for:
+It includes various scripts and tools for:
 - 2 surrogates for tsunami prediction nearshore(time series) and onshore(maximum inundation depth).
 - each surrogate is tested for the 3 test sites in Japan - Rikuzentakata(Riku), Ishinomaki(Ishi) and SendaI(Shio)
-- 
 
 ## Folder Structure
 Introductions to this and requisits.
@@ -26,7 +25,7 @@ conda env create -f pytorch.yml
 ```
 This will create a conda environment named with all the required packages.
 
-### Files and Example to Run Nearshore Surrogate for Rikuzentakata
+### Files and example to Run Nearshore Surrogate for Rikuzentakata
 
 **Working Directory:** `/surrogates/TS/_riku_6042`
 
@@ -48,7 +47,7 @@ This will create a conda environment named with all the required packages.
 #### Job Scripts:
 - `run.sbatch`, `run.sh`: Scripts for running training and test jobs in one go.
 
-### Files and Example to Run Onshore Surrogate for Rikuzentakata
+### Files and example to Run Onshore Surrogate for Rikuzentakata
 
 **Working Directory:** `/surrogates/MAP/1GaugeRiku`
 
