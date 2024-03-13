@@ -4,25 +4,28 @@ Machine learning surrogates for approximating tsunami wave height time series ne
 
 ## Contents
 - **geoclaw** (2D Nonlinear Shallow Water Equations tsunami runs)
-<img src="/paper/_plots/model_region_geoclaw.png" alt="Model Region" width="200">
   - _input
   - _output
   - _tsunami
-
-- **paper** (analysis, plots, and results)
-  - _plots
-  - _results
-  - _stats
+<img src="/paper/_plots/model_region_geoclaw.png" alt="Model Region" width="200">
 
 - **rupture** (earthquake rupture and displacement modeling)
   - _inputs (input source parameters for DOE and historic events)
   - dtopo_his (dtopo files for historic events and plotting)
   - dtopo_sift (for type B)
   - dtopo_slab (for type A)
+<img src="/paper/_plots/displacement_fault_fuji.png" alt="Displacement Ex" width="200">
 
 - **surrogates**
   - MAP (onshore surrogate for maximum inundation depth prediction)
   - TS (nearshore surrogate for time series prediction)
+<img src="/paper/_plots/VEDArch.png" alt="VED" width="200">
+
+- **paper** (analysis, plots, and results)
+  - _plots
+  - _results
+  - _stats
+<img src="/paper/_plots/scatter_TS__riku_6042.png" alt="Plots" width="200">
 
 ## Usage
 
