@@ -8,7 +8,7 @@ The repository includes various scripts and tools for:
 - inputs to prepare eq rupture for DOE type B events
 - dtop folders containing .tt3 file to force geoclaw model
 
-## Folder Structure
+## Contents and Folder Structure
 Introductions to this and requisits.
 - `README.md`: This README file.
 
@@ -24,7 +24,7 @@ input and output folders
 ## Usage
 
 ### Setting up the environment
-The repository uses a conda environment to manage the python packages.
+The repository also uses the same geoclaw conda environment to manage the python packages.
 
 ```bash
 conda env create -f geoclaw.yml

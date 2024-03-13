@@ -16,6 +16,7 @@ input and output folders
 - `TS`: Contains dtopo files(.tt3), plots for each historic event(dtopopng) and event info file
 
 ## Usage
+Certain heavy input ,output and result plot files (.npy,.csv and .png) are not included in the repository. These files are available on request or at the following link:
 
 ### Setting up the environment
 The repository uses a conda environment to manage the python packages.
@@ -25,4 +26,43 @@ conda env create -f pytorch.yml
 ```
 This will create a conda environment named with all the required packages.
 
-### Running the scripts
+### Files and Example to Run Nearshore Surrogate for Rikuzentakata
+
+**Working Directory:** `/surrogates/TS/_riku_6042`
+
+#### Directories:
+- `_data/`: Contains input data files used in the model training and testing.
+- `_gaugeplots/`: Contains plots related to gauge data.
+- `_output/`: Likely contains output files generated during the execution of scripts.
+- `_plots/`: Contains various plots generated during the analysis of the ML training and testing.
+
+#### Scripts:
+- `aeplot.py`: Scripts for plotting data related to the autoencoder model.
+- `process_gaugedata.py`: Scripts for processing gauge data as input for training stored in npy format.
+- `vae.py`: Implementation of the variational autoencoder model.
+- `vae_train.py`: Script for training the model.
+- `vae_test.py`: Script for testing the model.
+- `vae_test_historic.py`: Script for testing the model for historic events.
+- `vae_plot.py`: Scripts for plotting results from the variational autoencoder.
+
+#### Job Scripts:
+- `run.sbatch`, `run.sh`: Scripts for running training and test jobs in one go.
+
+### Files and Example to Run Onshore Surrogate for Rikuzentakata
+
+**Working Directory:** `/surrogates/MAP/1GaugeRiku`
+
+#### Directories:
+- `_data/`: Contains data files used in the model.
+- `_gaugeplots/`: Contains plots related to gauge data.
+- `_output/`: Contains output files generated during the execution of scripts.
+- `_plots/`: Contains various plots generated during the analysis.
+
+#### Scripts:
+- `process_fgmax.py`: Script for processing maximum depth data.
+- `process_gaugedata.py`: Script for processing gauge data as input for training.
+- `vae_plot.py`: Script for plotting results from the model.
+- `vae.py`: Implementation of the model.
+- `vae_train.py`: Script for training the model.
+- `vae_test.py`: Script for testing the model.
+- `vae_test_historic.py`: Script for testing the model for historic events.

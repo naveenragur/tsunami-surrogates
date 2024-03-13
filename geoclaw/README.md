@@ -1,5 +1,5 @@
 # Tohoku Tsunami Modeling Repository
-This repository contains scripts and resources for conducting geoclaw simulation for the Tohoku region in Japan.
+This directory contains scripts and resources for conducting geoclaw simulation for the Tohoku region in Japan.
 
 ## Overview
 The repository includes various scripts and tools for:
@@ -8,7 +8,7 @@ The repository includes various scripts and tools for:
 - Scripts to prepare inputs and run simulations
 - Post-processing scripts
 
-## Folder Structure
+## Contents and Folder Structure
 Introductions to this and requisits.
 - `README.md`: This README file.
 - `geoclaw.yml`: Configuration file for python packages managed in a conda environment
