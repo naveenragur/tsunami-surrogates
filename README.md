@@ -42,4 +42,4 @@ Some large input files for the geoclaw simulation and the post-processed inputs 
 
 - "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations" by C.M. Liu, D. Rim, R. Baraldi, and R.J. LeVeque, Pure and Applied Geophysics, 2021. DOI: [10.1007/s00024-021-02841-9](https://doi.org/10.1007/s00024-021-02841-9)
 
-- [Tsunami Inundation Emulator](https://github.com/norwegian-geotechnical-institute/tsunami-inundation-emulator.git) - A similar project for tsunami inundation depth prediction using machine learning.
+- [Tsunami Inundation Emulator](https://github.com/norwegian-geotechnical-institute/tsunami-inundation-emulator.git) - A similar project for tsunami inundation depth prediction using machine learning, developed in Julia/Flex
