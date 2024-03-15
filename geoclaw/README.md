@@ -53,6 +53,8 @@ This will create a conda environment named `geoclaw` with all the required packa
 See the [clawpack installation guide](https://www.clawpack.org/installing.html) for more information on installing clawpack.
 
 ### Running the simulations
-The simulations can be run using the `startbatch_run.py` script.
+- The geoclaw input files(topo and dtopo) need to be downloaded before run from https://doi.org/10.5281/zenodo.10817116.
+- The directory location for topo(.asc) should be updated in setrun.py and the dtopo(.tt3) files should be placed in the _tsunami directory.
+- The simulations can be run using the `startbatch_run.py` script.
 
 
