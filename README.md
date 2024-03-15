@@ -36,6 +36,8 @@ Following are the YAML files with information on the Python packages and require
 
 Each directory contains a more detailed README.md.
 
+Some large input files for the geoclaw simulation and the post-processed inputs for machine learning need to be downloaded from https://doi.org/10.5281/zenodo.10817116
+
 ## Useful References and Projects
 
 - "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations" by C.M. Liu, D. Rim, R. Baraldi, and R.J. LeVeque, Pure and Applied Geophysics, 2021. DOI: [10.1007/s00024-021-02841-9](https://doi.org/10.1007/s00024-021-02841-9)
