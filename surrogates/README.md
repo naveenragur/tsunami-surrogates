@@ -15,7 +15,7 @@ input and output folders for the two surrogates
 - `TS`: Contains the folders for the nearhsore surrogate
 
 ## Usage
-Certain heavy input ,output and result plot files (.npy,.csv and .png) are not included in the repository. These files are available on request and will be available at a download link soon.
+Certain heavy input, output and result plot files (.npy,.csv and .png) are not included in the repository. These files are available on request or downloaded from https://doi.org/10.5281/zenodo.10817116.
 
 ### Setting up the environment
 The repository uses a conda environment to manage the python packages.
