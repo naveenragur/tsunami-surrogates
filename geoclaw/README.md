@@ -1,5 +1,5 @@
 # Tohoku Tsunami Modeling Repository
-This repository contains scripts and resources for conducting geoclaw simulation for the Tohoku region in Japan.
+This directory contains scripts and resources for conducting geoclaw simulation for the Tohoku region in Japan.
 
 ## Overview
 The repository includes various scripts and tools for:
@@ -8,7 +8,7 @@ The repository includes various scripts and tools for:
 - Scripts to prepare inputs and run simulations
 - Post-processing scripts
 
-## Folder Structure
+## Contents and Folder Structure
 Introductions to this and requisits.
 - `README.md`: This README file.
 - `geoclaw.yml`: Configuration file for python packages managed in a conda environment
@@ -53,6 +53,8 @@ This will create a conda environment named `geoclaw` with all the required packa
 See the [clawpack installation guide](https://www.clawpack.org/installing.html) for more information on installing clawpack.
 
 ### Running the simulations
-The simulations can be run using the `startbatch_run.py` script.
+- The geoclaw input files(topo and dtopo) need to be downloaded before run from https://doi.org/10.5281/zenodo.10817116.
+- The directory location for topo(.asc) should be updated in setrun.py and the dtopo(.tt3) files should be placed in the _tsunami directory.
+- The simulations can be run using the `startbatch_run.py` script.
 
 
