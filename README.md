@@ -1,6 +1,7 @@
 # Tsunami Surrogates
 
 Machine learning surrogates for approximating tsunami wave height time series nearshore and maximum inundation depth onshore for the Japan Tohoku region.
+Related article available as preprint - Advancing nearshore and onshore tsunami hazard approximation with machine learning surrogates available at https://doi.org/10.5194/nhess-2024-72
 
 ## Contents
 
@@ -40,6 +41,6 @@ Some large input files for the geoclaw simulation and the post-processed inputs 
 
 ## Useful References and Projects
 
-- "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations" by C.M. Liu, D. Rim, R. Baraldi, and R.J. LeVeque, Pure and Applied Geophysics, 2021. DOI: [10.1007/s00024-021-02841-9](https://doi.org/10.1007/s00024-021-02841-9)
+- [https://github.com/rjleveque/MLSJdF2021](https://github.com/rjleveque/MLSJdF2021.git) - A project using VAE for tsunami forecasting problem, developed in Python/Pytorch. Liu, C.M., Rim, D., Baraldi, R. et al. Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations. Pure Appl. Geophys. 178, 5129–5153 (2021).DOI: [10.1007/s00024-021-02841-9](https://doi.org/10.1007/s00024-021-02841-9)
 
-- [Tsunami Inundation Emulator](https://github.com/norwegian-geotechnical-institute/tsunami-inundation-emulator.git) - A similar project for tsunami inundation depth prediction using machine learning, developed in Julia/Flex
+- [Tsunami Inundation Emulator](https://github.com/norwegian-geotechnical-institute/tsunami-inundation-emulator.git) - A project for tsunami inundation depth prediction using machine learning, developed in Julia/Flex. Erlend Briseid Storrøsten, Naveen Ragu Ramalingam, Stefano Lorito, Manuela Volpe, Carlos Sánchez-Linares, Finn Løvholt, Steven J Gibbons, Machine Learning Emulation of High Resolution Inundation Maps, Geophysical Journal International, 2024;ggae151.  DOI:  [https://doi.org/10.1093/gji/ggae151](https://doi.org/10.1093/gji/ggae151)
