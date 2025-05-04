@@ -1,4 +1,5 @@
 # Tsunami Surrogates
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15337936.svg)](https://doi.org/10.5281/zenodo.15337936)
 
 Machine learning surrogates for approximating tsunami wave height time series nearshore and maximum inundation depth onshore for the Japan Tohoku region.
 Related article available as preprint - Advancing nearshore and onshore tsunami hazard approximation with machine learning surrogates available at https://doi.org/10.5194/nhess-2024-72
