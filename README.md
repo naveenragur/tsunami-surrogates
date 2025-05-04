@@ -39,6 +39,7 @@ Following are the YAML files with information on the Python packages and require
 Each directory contains a more detailed README.md.
 
 Some large input files for the geoclaw simulation and the post-processed inputs for machine learning need to be downloaded from https://doi.org/10.5281/zenodo.10817116
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10817116.svg)](https://doi.org/10.5281/zenodo.10817116)
 
 ## Useful References and Projects
 
